@@ -70,7 +70,7 @@ const onlogin = (eve)=>{
             imageWidth: 200,
             imageHeight: 200,
             imageAlt: 'Custom image',
-            timer:1500,
+            timer:2000,
           })
 
     }
